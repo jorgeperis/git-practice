@@ -1,0 +1,11 @@
+diff --git a/three_doors.txt b/three_doors.txt
+index 794a7d6..f7f972b 100644
+--- a/three_doors.txt
++++ b/three_doors.txt
+@@ -1,3 +1,5 @@
+ You are in a room with three doors.
+ 
+ Which door will you go through?
++
++I choose the left door
+\ No newline at end of file
